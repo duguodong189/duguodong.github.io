@@ -1,4 +1,4 @@
 deploy:
   type:git
-  repository: ttps://github.com/duguodong189/duguodong.github.io.git
+  repository: https://github.com/duguodong189/duguodong.github.io.git
   branch:master
